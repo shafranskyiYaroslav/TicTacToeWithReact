@@ -1,3 +1,6 @@
+link to web-page: https://shafranskyiyaroslav.github.io/TicTacToeWithReact/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
